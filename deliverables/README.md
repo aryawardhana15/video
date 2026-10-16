@@ -1,11 +1,18 @@
 # TERA product film — production review
 
-- [Latest revision: animation v3](TERAExplainer-animation-v3.mp4)
+- [Latest revision: user WhatsApp voice-over v4](TERAExplainer-voiceover-WA-v4.mp4)
+- [Previous visual revision: animation v3](TERAExplainer-animation-v3.mp4)
 - [Latest video alias](TERAExplainer.mp4)
 - [Previous revision: intonation v2](TERAExplainer-intonasi-v2.mp4)
 - [36-second narration preview](TERA-preview-intonasi-v2.mp3)
 
-120 seconds, 1920×1080, 30 fps, H.264/AAC, Indonesian synthetic narration.
+120 seconds, 1920×1080, 30 fps, H.264/AAC, Indonesian user-recorded narration in v4.
+
+## WhatsApp voice-over revision v4
+
+The user-supplied recording replaces the previous synthetic narrator. Twenty-seven phrases are cut and positioned inside the existing subtitle slots. Four phrases receive very small pitch-preserving tempo adjustments (maximum 1.049×); the other phrases retain their original tempo. Gentle voice cleanup, level balancing and music ducking complete the mix.
+
+The complete H.264 picture stream is copied from animation v3. All 3600 video packet payload hashes and timestamps match exactly: duration, animation, framing and burned-in subtitles remain unchanged. Full-file decoding and browser playback/seek checks passed. Final mix: -16.0 LUFS integrated, -1.7 dB true peak.
 
 ## Animation revision v3
 
@@ -23,4 +30,4 @@ The same local synthetic speaker is retained. Shorter sentences, a consistent TT
 
 All business impact figures are simulated potential, not validated implementation results. Budi is illustrative, not a customer testimonial. Official uploaded TERA visual assets are used.
 
-The narration model's license has not been confirmed because its distributed model card is mismatched. This is a production review render; clear or replace the narration before public/commercial release. The website and creative reference videos could not be verified during production because network access was blocked.
+Historical synthetic-voice versions (v2/v3) used a model whose license was not confirmed because its distributed model card was mismatched. Version v4 uses the user-provided recording and contains no synthetic narrator. The website and creative reference videos could not be verified during production because network access was blocked.
